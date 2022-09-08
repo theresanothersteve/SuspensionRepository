@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="">
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    IgnoreCase="true"
+    conditions="">
+    <Terms>
+      <Term>preload</Term>
+    </Terms>
+    <Definition
+      Link="">Preload is applying load to a spring</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term6"
+    Stem=""
+    IgnoreCase="true"
+    conditions="">
+    <Terms>
+      <Term>rebound damping</Term>
+    </Terms>
+    <Definition
+      Link="">Rebounding damping adjusts the speed that suspension returns to its static setting.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term7"
+    Stem=""
+    IgnoreCase="true"
+    conditions="">
+    <Terms>
+      <Term>compression damping</Term>
+    </Terms>
+    <Definition
+      Link="">Compression damping adjusts the speed that suspension absorbs bumps.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0"
+    conditions=""
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>preload force</Term>
+    </Terms>
+    <Definition
+      Link="">The force the spring exerts on the end of the fork tube or adjusting ring when the suspension is fully extended</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem=""
+    IgnoreCase="false"
+    conditions="">
+    <Terms>
+      <Term>slower</Term>
+    </Terms>
+    <Definition
+      Link="">Turning a damping adjuster clockwise makes the damping slower, or harder.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem=""
+    IgnoreCase="false"
+    conditions="">
+    <Terms>
+      <Term>faster</Term>
+    </Terms>
+    <Definition
+      Link="">Turning a damping adjusteranit clockwise makes the damping faster, or softer.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+    <MicroContent id="what-is-micro-content">
+        <MicroContentPhrase>Preload</MicroContentPhrase>
+        <MicroContentPhrase>Tell me about micro content</MicroContentPhrase>
+        <MicroContentResponse href="../../C-About suspension-Topics/2-Spring preload.htm#Preload" />
+    </MicroContent>
+</MicroContentSet>
