@@ -7,7 +7,8 @@
   ConditionTagExpression="include[Default.PrintOnly], exclude[Default.Remark or Default.ScreenOnly]"
   PatchHeadingLevels="false"
   InjectEmptyPages="false"
-  MasterToc="/Project/TOCs/PDF.fltoc">
+  MasterToc="/Project/TOCs/PDF.fltoc"
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="false"
     ExpandingTextConversion="expand"
@@ -16,8 +17,11 @@
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true" />
   <DocumentProperties
-    Title="User Guide"
-    Author="My Name" />
+    Title="What do those clicky things do?"
+    Author="Steve Salter"
+    Subject="Motorcycle Suspension Setup"
+    Keywords="motorcycle suspension setup damping preload"
+    CopyrightStatus="true" />
   <PDF
     ShowUsedBookmarks="false"
     InitialMagnification="50"
@@ -26,5 +30,7 @@
     CollapsedBookmarks="true"
     CropAndRegistrationMarks="false"
     ConvertToCMYK="true"
-    Tagged="true" />
+    Tagged="true"
+    RestrictPermissions="true"
+    ModifyPassword="cAG2aumx2H+OXK8co40i/w==" />
 </CatapultTarget>

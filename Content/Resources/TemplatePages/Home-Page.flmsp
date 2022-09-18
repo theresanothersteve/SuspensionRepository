@@ -28,5 +28,7 @@
                 </tbody>
             </table>
         </div>
+        <p style="text-align: center;"><MadCap:variable name="General.Copyright" />
+        </p>
     </body>
 </html>

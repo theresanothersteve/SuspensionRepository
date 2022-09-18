@@ -34,4 +34,8 @@
     Type="DateTime"
     LastUpdated="2016-02-16T22:11:15.8176589-08:00"
     EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Copyright"
+    Comment=""
+    EvaluatedDefinition="Copyright © Steve Salter, 2022">Copyright © Steve Salter, 2022</Variable>
 </CatapultVariableSet>

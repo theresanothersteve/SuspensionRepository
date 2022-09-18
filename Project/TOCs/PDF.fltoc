@@ -19,6 +19,9 @@
     PageNumber="1" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
+    Link="/Content/A-Frontmatter-Topics/LegalInformation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
     Link="/Content/A-Frontmatter-Topics/Company.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
