@@ -931,3 +931,15 @@ body.home-topic
 	
 }
 
+p.legals
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	line-height: 20pt;
+	letter-spacing: 0.25px;
+	widows: 3;
+	orphans: 3;
+	font-size: 10pt;
+	font-style: italic;
+}
+
