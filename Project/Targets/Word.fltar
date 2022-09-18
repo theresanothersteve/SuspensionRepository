@@ -16,10 +16,12 @@
     GenerateTOCProxy="false"
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true"
-    OutputFormat="docx" />
+    OutputFormat="docx"
+    MirrorMargins="true" />
   <DocumentProperties
-    Title="User Guide"
-    Author="My Name" />
+    Title="What do those clicky things do?"
+    Author="Steve Salter"
+    Subject="Motorcycle suspension" />
   <PDF
     ShowUsedBookmarks="false"
     InitialMagnification="50"
