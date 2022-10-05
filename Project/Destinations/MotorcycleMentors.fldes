@@ -2,7 +2,7 @@
 <CatapultDestination
   Version="1"
   Comment="This is my publish destination"
-  Host="www.stevesalter.net"
+  Host="ftp.stevesalter.net"
   User="MyAccountId"
   Password=""
   Directory="/public_html/motorcyclementors.info/suspension"
