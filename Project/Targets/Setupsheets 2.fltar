@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Setup sheets"
+  Type="PDF"
+  Destinations=""
+  ConditionTagExpression="include[Default.PrintOnly], exclude[Default.Remark or Default.ScreenOnly]"
+  PatchHeadingLevels="false"
+  InjectEmptyPages="false"
+  GetLatestBeforeCompile="true"
+  MasterToc="/Project/TOCs/Setupsheets.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
+  <PrintedOutput
+    CollapseMargins="false"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <DocumentProperties
+    Title="What do those clicky things do?"
+    Author="Steve Salter"
+    Subject="Motorcycle Suspension Setup"
+    Keywords="motorcycle suspension setup damping preload"
+    CopyrightStatus="true" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="50"
+    PageLayout="TwoColumnRight"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="true"
+    RestrictPermissions="true"
+    ModifyPassword="cAG2aumx2H+OXK8co40i/w==" />
+</CatapultTarget>

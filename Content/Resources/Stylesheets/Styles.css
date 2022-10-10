@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 :root
 {
@@ -942,4 +942,7 @@ p.legals
 	font-size: 10pt;
 	font-style: italic;
 }
-
+.ForcePageBreak
+{
+page-break-before: always;
+}
