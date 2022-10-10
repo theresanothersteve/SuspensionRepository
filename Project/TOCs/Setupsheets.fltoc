@@ -10,13 +10,11 @@
     PageType="title"
     PageNumberReset="continue"
     PageLayout="/Content/Resources/PageLayouts/Setupsheets Frontmatter.flpgl"
-    AutoEndOnLeftPage="enabled" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/A-Frontmatter-Topics/EmptyPage.htm"
-    StartSection="false"
-    ComputeToc="false"
-    ReplaceMergeNode="false" />
+    AutoEndOnLeftPage="enabled">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A-Frontmatter-Topics/EmptyPage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/E-Reference/SetupSheets.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
@@ -24,5 +22,7 @@
     StartSection="true"
     PageNumberReset="continue"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    ReplaceMergeNode="false" />
+    ReplaceMergeNode="false"
+    AutoEndOnLeftPage="enabled"
+    PageType="firstright" />
 </CatapultToc>

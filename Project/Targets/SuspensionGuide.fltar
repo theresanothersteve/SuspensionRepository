@@ -15,7 +15,8 @@
     PopupConversion="remove-body"
     GenerateTOCProxy="false"
     GenerateIndexProxy="true"
-    GenerateGlossaryProxy="true" />
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
   <DocumentProperties
     Title="What do those clicky things do?"
     Author="Steve Salter"
@@ -26,11 +27,17 @@
     ShowUsedBookmarks="false"
     InitialMagnification="50"
     PageLayout="TwoColumnRight"
-    TitleBar="DocumentTitle"
+    TitleBar="FileName"
     CollapsedBookmarks="true"
     CropAndRegistrationMarks="false"
     ConvertToCMYK="true"
     Tagged="true"
     RestrictPermissions="true"
     ModifyPassword="cAG2aumx2H+OXK8co40i/w==" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/MotorcycleMentorsDownloads.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
 </CatapultTarget>

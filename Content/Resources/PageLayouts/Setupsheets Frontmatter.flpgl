@@ -8,6 +8,6 @@
         </Frame>
         <Frame X="-95px" Y="752px" Width="825px" Height="275px" Right="-128px" Bottom="-96px" Anchors="" BackgroundColor="#076685" BackgroundRepeat="no-repeat" FlowIndex="1" BackgroundImage="../Images/Project/Hero-Image-Print.png" />
     </Page>
-    <Page Width="7in" Height="9in" Padding="1in" PageSize="A4" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="left" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" BackgroundType="Solid" BackgroundColor="#cde0e7">
+    <Page Width="7in" Height="9in" Padding="1in" PageSize="A4" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="empty" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" BackgroundType="Solid" BackgroundColor="#cde0e7">
     </Page>
 </PageStyles>

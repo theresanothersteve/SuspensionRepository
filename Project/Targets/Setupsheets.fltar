@@ -4,7 +4,7 @@
   Comment="Setup sheets"
   Type="PDF"
   Destinations=""
-  ConditionTagExpression="include[Default.PrintOnly], exclude[Default.Remark or Default.ScreenOnly]"
+  ConditionTagExpression="include[Default.PrintOnly], exclude[Default.ExcludeSetupsheetDownload or Default.Remark or Default.ScreenOnly]"
   PatchHeadingLevels="false"
   InjectEmptyPages="false"
   GetLatestBeforeCompile="true"
@@ -15,10 +15,10 @@
     ExpandingTextConversion="expand"
     PopupConversion="remove-body"
     GenerateTOCProxy="false"
-    GenerateIndexProxy="true"
-    GenerateGlossaryProxy="true" />
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
   <DocumentProperties
-    Title="What do those clicky things do?"
+    Title="Suspension setup sheets"
     Author="Steve Salter"
     Subject="Motorcycle Suspension Setup"
     Keywords="motorcycle suspension setup damping preload"
@@ -33,5 +33,12 @@
     ConvertToCMYK="true"
     Tagged="true"
     RestrictPermissions="true"
-    ModifyPassword="cAG2aumx2H+OXK8co40i/w==" />
+    ModifyPassword="cAG2aumx2H+OXK8co40i/w=="
+    RestrictPrinting="false" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/MotorcycleMentorsDownloads.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
 </CatapultTarget>

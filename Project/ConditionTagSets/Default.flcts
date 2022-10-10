@@ -25,4 +25,8 @@
     Name="Remark"
     Comment=""
     OriginalName="Remark" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="ExcludeSetupsheetDownload"
+    Comment="" />
 </CatapultConditionTagSet>

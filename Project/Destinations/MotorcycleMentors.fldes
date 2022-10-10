@@ -2,10 +2,10 @@
 <CatapultDestination
   Version="1"
   Comment="This is my publish destination"
-  Host="ftp.stevesalter.net"
+  Host="motorcyclementors.info"
   User="MyAccountId"
   Password=""
-  Directory="/public_html/motorcyclementors.info/suspension"
+  Directory="suspension"
   Port="22"
   ViewUrl="www.motorcyclementors.info/suspension"
   Type="ftp"

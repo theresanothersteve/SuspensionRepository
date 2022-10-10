@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="motorcyclementors.info"
+  User="MyAccountId"
+  Password=""
+  Directory="suspension/downloads"
+  Port=""
+  ViewUrl="www.motorcyclementors.info/suspension/downloads"
+  Type="ftp"></CatapultDestination>
